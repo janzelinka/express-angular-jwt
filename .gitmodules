@@ -1,0 +1,6 @@
+[submodule "angular"]
+	path = angular
+	url = https://github.com/janzelinka/angular.git
+[submodule "express-inversify"]
+	path = express-inversify
+	url = https://github.com/janzelinka/express-inversify.git
